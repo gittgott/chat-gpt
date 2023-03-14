@@ -1,2 +1,2 @@
 # chat-gpt
-Chat GPT UI using SvelteKit and Chat GPT API
+UI for Chat GPT using SvelteKit and the Chat GPT API
